@@ -1,0 +1,108 @@
+/* index */
+
+.page-index .container {
+	margin-top: 1em;
+	margin-right: auto;
+	margin-bottom: 1em;
+	margin-left: auto;
+	width: 90%;
+	max-width: 800px;
+	padding: 2em;
+	
+}
+
+.page-index h2 {
+	width:38%;
+	float:right;
+}
+.page-index h1 {
+	width:100%;
+	float:left;
+	padding-top: 2.65em;
+}
+
+.page-index .bio{
+	width:40%;
+	float:left;
+	position:relative;
+	top:-300px;
+	margin-left: 2em;
+}
+
+.page-index .navbar{
+	float:right;
+	position:relative;
+	top:-375px;
+	padding-right: 1em;
+}
+
+.page-index #bitmap { 
+  border: 30px solid transparent;
+  padding: 20px;
+  border-image: url("http://content.mycutegraphics.com/borders/striped-double-border.png") 30;
+}
+
+
+/* life */
+
+.page-life .container {
+	margin-top: 1em;
+	margin-right: auto;
+	margin-bottom: 1em;
+	margin-left: auto;
+	width: 90%;
+	max-width: 800px;
+	padding-top: 6.75em;
+	
+}
+
+.page-life h2 {
+	width:100%;
+	float:left;
+}
+
+.page-life .bio{
+	width:25%;
+	float:left;
+	position:relative;
+	top:-300px;
+	margin-left: 2em;
+}
+
+.page-life .navbar1{
+	float:left;
+	width:20%;
+	position:relative;
+}
+
+.page-life .signatur {
+	float:left;
+	width:25%;
+	position:relative;
+}
+
+.page-life .navbar2{
+	float:left;
+	width:20%;
+	position:relative;
+}
+
+.page-life #bitmap { 
+  border: 30px solid transparent;
+  padding: 20px;
+  border-image: url("http://content.mycutegraphics.com/borders/striped-double-border.png") 30;
+}
+
+.page-life header{
+	width:72%;
+	float:right;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.picture #bitmap { 
+  border: 30px solid transparent;
+  padding: 20px;
+  border-image: url("http://content.mycutegraphics.com/borders/striped-double-border.png") 30;
+}
+}
